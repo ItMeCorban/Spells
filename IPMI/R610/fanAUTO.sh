@@ -1,0 +1,1 @@
+ipmitool -I lanplus -H 10.1.11.10 -U root -P calvin raw 0x30 0x30 0x01 0x01
